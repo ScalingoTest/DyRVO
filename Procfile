@@ -1,1 +1,1 @@
-worker: bash Rush.sh
+web: bash Rush.sh
